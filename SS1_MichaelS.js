@@ -6,6 +6,10 @@ function setup() {
 function draw() {
   background(143, 247, 252);
 
+  textSize(24);
+
+  text("Michael Suero", 10,100);
+
   fill(255,46,5)
 circle(485,25,100)
 
