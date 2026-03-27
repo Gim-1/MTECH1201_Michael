@@ -751,4 +751,4 @@ if (scene4Night) {
 
 // color change : https://openprocessing.org/sketch/2842966
 
-// add something to scene one 
+// add something to scene one . fix colors for letter. click for scene to scene like small arrow.
