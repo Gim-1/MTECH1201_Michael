@@ -745,3 +745,10 @@ if (scene4Night) {
   
 }
 
+//References :   
+
+// Rain : https://openprocessing.org/sketch/483954
+
+// color change : https://openprocessing.org/sketch/2842966
+
+// add something to scene one 
